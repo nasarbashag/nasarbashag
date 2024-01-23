@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @nasarbashag
-- 💞️ I’m not looking for an  collaboration right now.
-- 📫 How to reach me nasarbashag1995@gmail.com 
+👋 Hello, I'm nasar basha, a passionate and results-driven software developer with over 2 years of hands-on experience in Yii2, demonstrating expertise in building robust and scalable web applications. My proficiency extends to Laravel, where I've garnered 2 years of valuable experience, honing my skills in crafting elegant and efficient solutions. Eager to embrace new challenges and technologies, I'm currently venturing into the world of Flutter and Dart, exploring the exciting realm of cross-platform mobile development.
 
-<!---
-nasarbashag/nasarbashag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 My journey in Yii2 has equipped me with in-depth knowledge of its framework, allowing me to develop feature-rich and high-performance web applications. Whether it's creating custom modules, optimizing database queries, or ensuring code maintainability, I thrive on delivering solutions that exceed expectations. In Laravel, I've seamlessly integrated cutting-edge features, ensuring the seamless functionality and optimal performance of web applications.
+
+🚀 As I embark on my Flutter/Dart journey, I'm excited to leverage my programming expertise to delve into mobile app development. While I'm currently a beginner in Flutter and Dart, my passion for learning and adapting quickly positions me to rapidly evolve and contribute meaningfully to the mobile development landscape.
+
+🔧 Beyond my core technologies, I'm well-versed in version control using Git and have a keen eye for clean and efficient code. Collaborative by nature, I enjoy working within diverse teams, leveraging my communication skills to bring innovative ideas to fruition. Feel free to explore my repositories to witness my commitment to clean coding practices, collaborative development, and a perpetual quest for improvement. Let's code together and build something amazing! 🚀
