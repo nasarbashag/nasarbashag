@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Nasar Basha
 
-![GitHub stars](https://img.shields.io/github/stars/Basha-Nasar?style=social)
-![GitHub followers](https://img.shields.io/github/followers/Basha-Nasar?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=Basha-Nasar&color=blueviolet)
+![GitHub stars](https://img.shields.io/github/stars/nasarbashag?style=social)
+![GitHub followers](https://img.shields.io/github/followers/nasarbashag?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=nasarbashag&color=blueviolet)
 
 Welcome to my GitHub! I'm a seasoned **Senior PHP Developer** and **Team Lead** at **Izar Solutions & Services**, with over **8 years** of experience architecting and delivering robust backend systems.
 
@@ -63,11 +63,11 @@ Welcome to my GitHub! I'm a seasoned **Senior PHP Developer** and **Team Lead** 
 
 ---
 
-![Nasar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basha-Nasar&show_icons=true&theme=radical)
+![Nasar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasarbashag&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basha-Nasar&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nasarbashag&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Basha-Nasar&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasarbashag&theme=radical)
 
 
 ---
